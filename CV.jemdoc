@@ -1,0 +1,188 @@
+# jemdoc: menu{MENU}{CV.html}
+= Curriculum Vitae
+
+~~~
+{}{img_left}{weiming.jpg}{alt text}{200px}{200px}{}
+*Weiming Xiang*, Ph.D. \n
+Postdoctoral Research Scholar \n
+[https://engineering.vanderbilt.edu/eecs/ Department of Electrical Engineering and Computer Science] \n
+[https://www.vanderbilt.edu/ Vanderbilt University, TN] 
+\n
+\n
+VUSE-ISIS building \n
+1025 16th Ave S \n
+Nashville, TN 37212 \n
+Email: xiangwming at gmail dot com
+~~~
+
+\n
+
+*Brief Bio:* I am going to join the [https://augusta.edu/ccs/ School of Computer and Cyber Sciences] at [https://augusta.edu Augusta University] this summer as an Assistant Professor. Before joining [https://augusta.edu Augusta University], I am now working as a Postdoctoral Research Scholar in the [https://engineering.vanderbilt.edu/eecs/ Department of Electrical Engineering and Computer Science] at [https://www.vanderbilt.edu/ Vanderbilt University] (Sep 2016 -- Jul 2019), and worked as a Postdoctoral Research Associate in the [https://cse.uta.edu/ Department of Computer Science and Engineering] at the [https://www.uta.edu/ University of Texas at Arlington] (Nov 2015 -- Aug 2016), a Research Associate in the [http://me.hku.hk/ Department of Mechanical Engineering] at the [https://www.hku.hk/ University of Hong Kong] (May 2015 -- Oct 2015), and briefly in the [https://ctt.swjtu.edu.cn/ School of Transportation and Logistics] at [https://www.swjtu.edu.cn/ Southwest Jiaotong University] as an Associate Professor (Jun 2014 -- May 2015). I completed my Ph.D. at [https://www.swjtu.edu.cn/ Southwest Jiaotong University] in 2014 with a Ph.D. thesis on formal methods for hybrid traffic systems awarded the Outstanding Ph.D. Dissertation of Southwest Jiaotong University 2014. 
+
+\n
+\n
+
+*Research:* My research interest is developing formal synthesis and verification techniques and software tools for cyber-physical systems (CPS). My current research centers on /*formal methods on safety, security and reliablity of learning-enabled CPS*/. 
+I am also broadly interested in methods and applications across CPS domains, such as control synthesis, stability analysis, reachable set computation, hybrid systems,  power and energy, transportation, fuzzy logic, and neural networks. 
+
+== Academic and Research Positions
+- *Assitant Professor* (/will start on 08\/01\/2019/)
+\n
+[https://augusta.edu/ccs/ School of Computer and Cyber Sciences] 
+\n
+[https://augusta.edu Augusta University], GA
+\n
+
+- *Postdoctoral Research Scholar* (Aug 2016 -- Jul 2019)
+\n 
+[https://engineering.vanderbilt.edu/eecs/ Department of Electrical Engineering and Computer Science] 
+\n
+[https://www.vanderbilt.edu/ Vanderbilt University], TN
+\n
+
+- *Postdoctoral Research Associate* (Nov 2015 -- Jul 2016)
+\n
+[https://cse.uta.edu/ Department of Computer Science and Engineering] 
+\n
+[https://www.uta.edu/ University of Texas at Arlington], TX
+\n
+
+- *Research Associate* (May 2015 -- October 2015)
+\n
+[http://me.hku.hk/ Department of Mechanical Engineering]
+\n
+[https://www.hku.hk/ University of Hong Kong]
+\n
+
+- *Associate Professor* (June 2014 -- May 2015)
+\n
+[https://ctt.swjtu.edu.cn/ School of Transportation and Logistics]
+\n
+[https://www.swjtu.edu.cn/ Southwest Jiaotong University]
+
+== Education
+
+- *Ph.D.* (2009 -- 2014)
+\n
+*Dissertation:* Characteristic Analysis for Hybrid Transportation System Based on Switched System Theory
+\n
+\*/Outstanding Ph.D Dissertation of Southwest Jiaotong University 2014/
+\n
+*Insitution:* [https://ctt.swjtu.edu.cn/ School of Transportation and Logistics]
+,
+[https://www.swjtu.edu.cn/ Southwest Jiaotong University]
+
+- *M.Sc.* (2005 -- 2007)
+\n
+*Dissertation:* Analysis and Control for a Class of Switched Nonlinear Systems
+\n
+\*/Outstanding Master Dissertation of Nanjing University of Science and Technology 2007/
+\n
+\*/Outstanding Master Dissertation of Jiangsu Province 2007/
+\n
+*Institution:* [http://au.njust.edu.cn/ Department of Automation], [http://www.njust.edu.cn/ Nanjing University of Science and Technology]
+
+- *Bachelor* (2001 -- 2005)
+\n
+[http://dqxy.ecjtu.jx.cn/ Department of Electrical Engineering], [www.ecjtu.jx.cn/ East China Jiaotong University]
+
+== Fundings and Projects
+=== PI/Co-PI Grants
+- *Research on Set Computation for Switched Systems and Application in Formal Verification for Nonlinear Systems*
+\n
+Role: PI, Duration: 2015 -- 2017, Sponsor: National Natural Science Foundation of China, Amount:
+220,000 RMB (approx. \$35,000)
+
+- *Characteristic Analysis for Hybrid Transportation System Based on Switched System Theory*
+\n
+Role: PI, Duration: 2012 -- 2014, Sponsor: Outstanding Doctoral Cultivation Fund in Southwest
+Jiaotong University, Amount: 100,000 RMB (approx. \$16,000).
+
+- *Research on Robust Control for High-Speed Train Electrical Motor Based on LPV Switched System Theory*
+\n
+Role: Co-PI, Duration: 2014 -- 2017, Sponsor: National Natural Science Foundation of China,
+Amount: 640,000 RMB (approx. \$100,000).
+
+- *Research on Adhesive Control of High Speed Trains in Vehicle Controlled Traction Mode*
+\n
+Role: Co-PI, Duration: 2016 -- 2018, Sponsor: National Natural Science Foundation of China,
+Amount: 210,000 RMB (approx. \$35,000).
+
+=== Participate-in Projects
+
+- *Formal Modeling of Emergence in Distributed Cyber-Physical Systems*
+\n
+Supervised by Prof. Taylor T. Johnson; Sponsored by Air Force Research Laboratory, USA.
+\n
+
+- *Assurance-Based Learning-Enabled Cyber-Physical Systems*
+\n
+Supervised by Prof. Taylor T. Johnson; Sponsored by Defense Advanced Research Projects Agency
+(DARPA), USA.
+
+- *CPS: Safe Cyber-Physical Systems Upgrades*
+\n
+Supervised by Prof. Taylor T. Johnson; Sponsored by National Science Foundation (NSF), USA.
+
+
+== Services for International Journal and Conferences
+
+- Associate Editor, Neurocomputing, 2014 --2019.
+- Leading Guest Editor, Special Issue: Recent Advances in Control and Verification for Hybrid Systems, IET Control Theory and Applications, 2018.
+- Co-Chair, Regular Session of Switched Systems II, 55th IEEE Conference on Decision and Control, 2016.
+- PC Member, 6th International Conference on Intelligent Control and Information Processing, 2015.
+
+== Review Services
+
+- Applied Mathematics and Computation
+- Asian Journal of Control
+- Automatica
+- Circuits, Systems, and Signal Processing
+- Control and Intelligent Systems
+- IEEE Transactions on Automatic Control
+- IEEE Transactions on Fuzzy Systems
+- IEEE Transactions on Systems, Man, and Cybernetics-Part B: Cybernetics
+- IET Control Theory and Applications
+- IMA Journal of Mathematical Control and Information
+- International Journal of Adaptive Control and Signal Processing
+- International Journal of Control
+- International Journal of Control, Automation, and Systems
+- International Journal of Robust and Nonlinear Control
+- International Journal of System Science
+- Journal of the Franklin Institute
+- Mathematical Problems in Engineering
+- Neurocomputing
+- Optimal Control, Applications and Methods
+- Recent Patents on Electrical and Electronic Engineering
+- SIAM Journal on Control and Optimization
+- System and Control Letters
+- Transactions of the Institute of Measurement and Control
+- IEEE Conference on Decision and Control
+- American Control Conference
+- IEEE International Conference on Intelligent Transportation Systems
+- IEEE Conference on Control Technology and Applications
+
+== Awards and Honors
+- Top 1% Reviewers in Field of Engineering, Publons, 2018
+- Outstanding Reviewer, Journal of the Franklin Institute, 2017.
+- Outstanding Reviewer, Neurocomputing, 2017.
+- Outstanding Reviewer, Nonlinear Analysis: Hybrid Systems, 2016.
+- Outstanding Reviewer, IEEE Transactions on Automatic Control, 2015.
+- Outstanding Reviewer, Journal of the Franklin Institute, 2015.
+- Most Cited Article since 2011, Journal of the Franklin Institute (Ranking No. 1, by 12/31/2016).
+- Annual Ph.D Thesis of Southwest Jiaotong University, 2014.
+- Annual Master Thesis of Nanjing University of Science and Technology, 2007.
+- Annual Master Thesis of Jiangsu Province, China, 2007.
+
+== Membership
+
+- IEEE Senior Member (Jul 2017 --).
+
+== Teaching Experiences
+- Linear Control System, Teaching Assistant, [https://www.swjtu.edu.cn/ Southwest Jiaotong University], Fall, 2013.
+- Control System Design, Instructor, [http://www.swust.edu.cn/ Southwest University of Science and Technology], Spring, 2008, 2009.
+- Circuit Analysis, Instructor, [http://www.swust.edu.cn/ Southwest University of Science and Technology], Fall, 2008, 2009.
+ 
+== Publications
+
+A full list of papers is available [publications.html here].
