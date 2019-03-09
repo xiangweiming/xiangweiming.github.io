@@ -379,21 +379,27 @@ W. Xiang, X. Yang, H.D. Tran, T.T. Johnson
 \n
 AAAI Spring Symposium on Verification of Neural Networks (VNN19)
 
+- *Parallelizable Reachability Analysis Algorithms for Feed-Forward Neural Networks* ([https://drive.google.com/open?id=1QkLsAclGE3kf3ScxghZmJd6BXtreYEiW PDF])
+\n
+H.D. Tran, P. Musau, M.L. Diego, X. Yang, L.V. Nguyen, W. Xiang, T.T. Johnson
+\n
+7th International Conference on Formal Methods in Software Engineering (FormaliSE 2019)
+
 === 2018
 
-- *Stabilizing Switching Control for DC-DC Converter in Two-Stage Photovoltaic Grid Connected Inverters*
+- *Stabilizing Switching Control for DC-DC Converter in Two-Stage Photovoltaic Grid Connected Inverters* ([https://drive.google.com/open?id=1OlPa1v47t4c2iMhKylkYueCc9sC52Iwi PDF])
 \n
 Y. Liu, T. Wang, X. Wang, W. Xiang
 \n
 2018 5th International Conference on Information, Cybernetics, and Computational Social Systems (ICCSS), 387-392
 
-- *Reachable Set Estimation and Safety Verification for Piecewise Linear Systems with Neural Network Controllers*
+- *Reachable Set Estimation and Safety Verification for Piecewise Linear Systems with Neural Network Controllers* ([https://drive.google.com/open?id=1ktWor_L6fApCKFCnhbtOI7bPx_OineBs PDF])
 \n
 W. Xiang, H.D. Tran, J.A. Rosenfeld, T.T. Johnson
 \n
 2018 Annual American Control Conference (ACC), 1574-1579
 
-- *Reachability Analysis for One Dimensional Linear Parabolic Equations*
+- *Reachability Analysis for One Dimensional Linear Parabolic Equations* ([https://drive.google.com/open?id=1ow3HiXC9cfZqOQfTQm79wZgctlkBSEX3 PDF])
 \n
 H.D. Tran, W. Xiang, S. Bak, T.T. Johnson
 \n
@@ -401,7 +407,7 @@ IFAC Conference on Analysis and Design of Hybrid Systems (ADHS 2018), 2018. IFAC
 
 === 2017
 
-- *On Reachable Set Estimation for Discrete-Time Switched Linear Systems under Arbitrary Switching*
+- *On Reachable Set Estimation for Discrete-Time Switched Linear Systems under Arbitrary Switching* ([https://drive.google.com/open?id=1Xdy2lPatqRpNbfKCK9BvhrODNbrcfcY3 PDF])
 \n
 W. Xiang, H.D. Tran, T.T. Johnson
 \n
@@ -409,13 +415,13 @@ W. Xiang, H.D. Tran, T.T. Johnson
 
 === 2016
 
-- *Reachable Set Estimation and Control for Switched Linear Systems with Dwell-Time Restriction*
+- *Reachable Set Estimation and Control for Switched Linear Systems with Dwell-Time Restriction* ([https://drive.google.com/open?id=1wlI_6MrHc6yyJ4N1MunRoJSLdCctupOj PDF])
 \n
 W. Xiang, H.D. Tran, T.T. Johnson
 \n
 2016 IEEE 55th Conference on Decision and Control (CDC), 7246-7251
 
-- *Tutorial: Software tools for hybrid systems verification, transformation, and synthesis: C2E2, HyST, and TuLiP*
+- *Tutorial: Software tools for hybrid systems verification, transformation, and synthesis: C2E2, HyST, and TuLiP* ([https://drive.google.com/open?id=1vcOTDwfEXf2y0KKQpp38rz06w4P2cutC PDF])
 \n
 P.S. Duggirala, C. Fan, M. Potok, B. Qi, S. Mitra, M. Viswanathan, S. Bak, S. Bogomolov, T.T. Johnson, L.V. Nguyen, C. Schilling, A. Sogokon, H.D. Tran, W. Xiang
 \n
@@ -423,7 +429,7 @@ Control Applications (CCA), 2016 IEEE Conference on, 1024-1029
 
 === 2014
 
-- *Reliable Tracking Control for High Speed Train Against Actuator Failures: A Parallel Control Architecture*
+- *Reliable Tracking Control for High Speed Train Against Actuator Failures: A Parallel Control Architecture* ([https://drive.google.com/open?id=1M-zDxGQWUuL7BfrIZHYAuXPZ1VlAiP6G PDF])
 \n
 W. Xiang, J. Xiao
 \n
