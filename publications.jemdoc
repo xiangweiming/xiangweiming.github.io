@@ -15,21 +15,33 @@ Safe, Autonomous and Intelligent Vehicles, Springer, 123-144
 
 === 2019
 
-- *New Alternative Convex Conditions on Exponential Stability and Stabilization of Switched Positive Linear Systems with Dwell Time*
+- *Necessary and Sufficient Conditions to Stability of Discrete-Time Delay Systems*
+\n 
+T. Wang, W. Xiang
 \n
-H. Zhang, Y. Li, W. Xiang
-\n
-IET Control Theory & Applications, /online/
-
-
-
-=== 2018
+Journal of the Franklin Institute, (online)
 
 - *Nonconservative Lifted Convex Conditions for Stability of Discrete-Time Switched Systems under Minimum Dwell-Time Constraint* ([https://drive.google.com/open?id=1Qrcs7sX5ybrGlTfSR_3t0p5185zNmXzp PDF])
 \n
 W. Xiang, D. Tran, T.T. Johnson
 \n
-IEEE Transactions on Automatic Control, /online/
+IEEE Transactions on Automatic Control, 64(8), 3407 - 3414
+
+- *Guest Editorial: Recent Advances in Control and Verification for Hybrid Systems*
+\n
+W. Xiang, G. Zhai, S. Baldi, C. Yuan, T. T. Johnson
+\n
+IET Control Theory and Applications, 13 (9), 1219-1221
+
+- *New Alternative Convex Conditions on Exponential Stability and Stabilization of Switched Positive Linear Systems with Dwell Time*
+\n
+H. Zhang, Y. Li, W. Xiang
+\n
+IET Control Theory & Applications, 13 (5), 620-631
+
+
+
+=== 2018
 
 - *On Stability and H_\infty control of Switched Systems with Random Switching Signals* ([https://drive.google.com/open?id=1qPGSVbrI_fLJw8IuGcA7pqFiXnArn9aK PDF])
 \n
@@ -366,6 +378,29 @@ Control and Intelligent Systems 36 (4), 318
 == Conference Proceeding Papers
 
 === 2019
+- *Star-Based Reachability Analysis of Deep Neural Networks* 
+\n
+H.D. Tran, D.M. Lopez, P. Musau, X. Yang, L.V. Nguyen, W. Xiang, T.T. Johnson
+\n
+International Symposium on Formal Methods, 670-686
+
+- *Reachability Analysis for High-Index Linear Differential Algebraic Equations*
+\n
+H.-D. Tran, L. V. Nguyen, N. Hamilton, W. Xiang, T. T. Johnson
+\n
+International Conference on Formal Modeling and Analysis of Timed Systems, 160-177
+
+- *Decentralized Real-Time Safety Verification for Distributed Cyber-Physical Systems*
+\n
+H.-D. Tran, L. V. Nguyen, P. Musau, W. Xiang, T. T. Johnson
+\n
+International Conference on Formal Techniques for Distributed Objects, Components, and Systems, 261-277
+
+- *Parallelizable reachability analysis algorithms for feed-forward neural networks*
+\n
+H.-D. Tran, P. Musau, D. M. Lopez, X. Yang, L. V. Nguyen, W. Xiang, T. T. Johnson
+\n
+Proceedings of the 7th International Workshop on Formal Methods in Software Engineering, 31-40
 
 - *Specification-Guided Safety Verification for Feedforward Neural Networks* ([https://arxiv.org/pdf/1812.06161.pdf PDF])
 \n
