@@ -15,11 +15,19 @@ Safe, Autonomous and Intelligent Vehicles, Springer, 123-144
 
 === 2020
 
+- *Reachable Set Estimation for Neural Network Control Systems: A Simulation-Guided Approach* 
+([https://arxiv.org/pdf/2004.12273.pdf PDF])
+\n
+W. Xiang, D. Tran, X. Yang, T.T. Johnson
+\n
+IEEE Transactions on Neural Networks and Learning Systems, doi: 10.1109/TNNLS.2020.2991090
+
 - *Stabilization for continuous-time switched linear systems: A mixed switching scheme* 
 ([https://drive.google.com/open?id=1R0W0xBpGAaxKKya4Fhf_VnWaN4pmJycu PDF])
 \n
 W. Xiang
-\n Nonlinear Analysis: Hybrid Systems, 36, 100872
+\n 
+Nonlinear Analysis: Hybrid Systems, 36, 100872
 
 
 - *New Stability Conditions for Switched Linear Systems: A Reverse-Timer-Dependent Multiple Discontinuous Lyapunov Function Approach* ([https://drive.google.com/open?id=1DK1Ny6tyhmORN6QDjdYeUcBAHF3pEOWi PDF])
