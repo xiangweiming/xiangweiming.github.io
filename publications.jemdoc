@@ -403,6 +403,20 @@ Control and Intelligent Systems 36 (4), 318
 
 == Conference Proceeding Papers
 
+=== 2020
+
+- *NNV: The Neural Network Verification Tool for Deep Neural Networks and Learning-Enabled Cyber-Physical Systems* ([https://arxiv.org/pdf/2004.05519.pdf PDF])
+\n
+H.D. Tran, X. Yang, D.M. Lopez, P. Musau, L.V. Nguyen, W. Xiang, S. Bak, T.T. Johnson 
+\n
+32nd International Conference on Computer-Aided Verification (CAV 2020)
+
+- *Verification of Deep Convolutional Neural Networks Using ImageStars* ([https://arxiv.org/pdf/2004.05511.pdf PDF])
+\n
+H.D. Tran, S. Bak, W. Xiang, T.T. Johnson 
+\n
+32nd International Conference on Computer-Aided Verification (CAV 2020)
+
 === 2019
 - *Star-Based Reachability Analysis of Deep Neural Networks* ([https://drive.google.com/open?id=1RAd2QYEqnckHBmWW11lJszRN2rRQyNqS PDF])
 \n
