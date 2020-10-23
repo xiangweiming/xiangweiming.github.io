@@ -1,0 +1,29 @@
+# jemdoc: menu{MENU}{projects.html}
+= Projects
+
+== Analysis and Control of Hybrid Dynamical Systems
+
+A hybrid system is a dynamical system that exhibits both continuous and discrete dynamic behavior, a system that can both flow (described by a differential equation) and jump (described by a state machine or automaton). The hybrid system framework offers an elegant way to model complex many technological systems, in which logic decision making and embedded control actions are combined with continuous physical processes such as a  variety of  Cyber-Physical Systems (CPS), such as collision avoidance protocols in air traffic control,  obstacle avoidance algorithms,  software-controlled medical devices, etc.  
+\n
+~~~
+{}{img_left}{image/hybrid_system.png}{alt text}{650px}{380px}{}
+~~~
+\n
+
+Figures are from [https://drive.google.com/open?id=1phmuHqLQq21zV9-3qHavgiRCEn1ggNim Automatica (2014)], [https://drive.google.com/open?id=1qPGSVbrI_fLJw8IuGcA7pqFiXnArn9aK Automatica (2018)].
+
+\n\n
+
+I am personally interested in the development of new theoretical results for the analysis and control of hybrid systems. My recent work proposed novel stability criteria for hybrid systems with time-dependent switching in the framework of multiple Lyapunov functions, including non-conservative stability criteria, formulated in terms of LP, SDP, and SOS conditions.
+ The results are further developed to a variety of hybrid systems such as stochastic switching systems, positive hybrid systems, uncertain hybrid systems, etc, as well as control synthesis of hybrid systems, e.g., event-triggered control.  
+
+
+
+== Data-Driven Modeling and Control of Cyber-Physical Systems
+
+== Verification of Neural Networks: a Reachability Approach 
+
+== Run-Time Monitoring of Neural-Network-Enabled Systems
+
+== Assured Neural Network Compression
+
