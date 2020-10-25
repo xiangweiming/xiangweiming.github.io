@@ -3,7 +3,7 @@
 
 == Analysis and Control of Hybrid Dynamical Systems
 
-A hybrid system is a dynamical system that exhibits both continuous and discrete dynamic behavior, a system that can both flow (described by a differential equation) and jump (described by a state machine or automaton). The hybrid system framework offers an elegant way to model complex many technological systems, in which logic decision making and embedded control actions are combined with continuous physical processes such as a  variety of  Cyber-Physical Systems (CPS), such as collision avoidance protocols in air traffic control,  obstacle avoidance algorithms,  software-controlled medical devices, etc.  
+A hybrid system is a dynamical system that exhibits both continuous and discrete dynamic behavior, a system that can both flow (described by a differential equation) and jump (described by a state machine or automaton). The hybrid system framework offers an elegant way to model complex many technological systems, in which logic decision making and embedded control actions are combined with continuous physical processes such as a  variety of  Cyber-Physical Systems (CPS), e.g., collision avoidance protocols in air traffic control,  obstacle avoidance algorithms,  software-controlled medical devices, etc.  
 \n
 ~~~
 {}{img_left}{image/hybrid_system.png}{alt text}{650px}{380px}{}
@@ -19,7 +19,30 @@ I am personally interested in the development of new theoretical results for the
 
 == Verification of Neural Network Systems
 
-== Data-Driven Modeling and Control of Cyber-Physical Systems
+Artificial neural networks are used in systems that introduce machine learning components to resolve complex of neural networks problems. This can be attributed to the impressive ability to approximate complex functions as shown by the Universal Approximation Theorem. However, the data-driven nature and lack of efficient methods for analysis of neural networks leads to, in most cases, the treatment of neural networks as black boxes with no assurance in safety. Verifying neural networks is a difficult problem, and it has been demonstrated that validating even simple properties about their behavior is NP-complete. I am personally interested in develop verification algorithms in the framework of reachability of neural networks. The developed set-valued reachability framework aims to compute output set of a neural network, then system properties such as safety property can be verified by checking therelationship, e.g., intersection, between output set and specification set.
+\n
+~~~
+{}{img_left}{image/nn_verification_1.png}{alt text}{480px}{250px}{}
+~~~
+\n
+
+Figure is from [https://drive.google.com/file/d/1P_nb7ZfZ6-mVqzlg5_kDL1qzNUWeECh4/view IEEE Design and Test 2020]
+\n\n
+
+I am developing efficient and scalable reachability-based verification frameworks of nerual networks. Simulation-guided methods incorperated with interval arithmetic are proposed for neural networks with general activation functions. Polyhedra computation framework is developed for neural networks with ReLU activation function.
+
+\n
+~~~
+{}{img_left}{image/nn_verification_2.png}{alt text}{420px}{420px}{}
+~~~
+\n
+
+Figures are from [https://arxiv.org/pdf/2004.12273.pdf IEEE TNNLS 2020] and [https://arxiv.org/pdf/2004.05519.pdf CAV 2020].
+
+
+== Assured Data-Driven Modeling and Control of Cyber-Physical Systems
+
+
 
 == Run-Time Monitoring of Learning-Enabled Cyber-Physical Systems
 
