@@ -17,9 +17,9 @@ Figures are from [https://drive.google.com/open?id=1phmuHqLQq21zV9-3qHavgiRCEn1g
 I am personally interested in the development of new theoretical results for the analysis and control of hybrid systems. My recent work proposed novel stability criteria for hybrid systems with time-dependent switching in the framework of multiple Lyapunov functions, including non-conservative stability criteria, formulated in terms of LP, SDP, and SOS conditions.
  The results are further developed to a variety of hybrid systems such as stochastic switching systems, positive hybrid systems, uncertain hybrid systems, etc, as well as control synthesis of hybrid systems, e.g., event-triggered control.  
 
-== Data-Driven Modeling and Control of Cyber-Physical Systems
-
 == Verification of Neural Network Systems
+
+== Data-Driven Modeling and Control of Cyber-Physical Systems
 
 == Run-Time Monitoring of Learning-Enabled Cyber-Physical Systems
 
