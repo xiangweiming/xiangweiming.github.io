@@ -26,7 +26,7 @@ Artificial neural networks are used in systems that introduce machine learning c
 ~~~
 \n
 
-Figure is from [https://drive.google.com/file/d/1P_nb7ZfZ6-mVqzlg5_kDL1qzNUWeECh4/view IEEE Design and Test 2020]
+Figure is from [https://drive.google.com/file/d/1P_nb7ZfZ6-mVqzlg5_kDL1qzNUWeECh4/view IEEE Design and Test 2020].
 \n\n
 
 I am developing efficient and scalable reachability-based verification frameworks of nerual networks. Simulation-guided methods incorperated with interval arithmetic are proposed for neural networks with general activation functions. Polyhedra computation framework is developed for neural networks with ReLU activation function.
@@ -40,7 +40,22 @@ I am developing efficient and scalable reachability-based verification framework
 Figures are from [https://arxiv.org/pdf/2004.12273.pdf IEEE TNNLS 2020] and [https://arxiv.org/pdf/2004.05519.pdf CAV 2020].
 
 
-== Assured Data-Driven Modeling and Control of Cyber-Physical Systems
+== Trustworthy Data-Driven Modeling and Control of Cyber-Physical Systems
+
+Modern control systems, e.g., medical robotic systems, autonomous vehicles and a variety of Cyber-Physical Systems(CPS), have been increasingly benefiting from the recent rapid development of Machine Learning (ML) and Artificial Intelligence (AI) techniques. In the foreseeable future, there will be intensive interactions between ML and dynamical control system domains in various stages of modeling, sensing, and control.Overthe next decade, the biggest generator of data is expected to be devices which sense and control the physical world. Effective and trustworthy data-driven methods are required to meet and handle the explosion of data emerging from the physical world. Moreover, with the progress of adversarial machine learning, traditional methods dealing with uncertainties and disturbances such as robust control methods are no longer valid as long as the perturbations and attacks might be purposefully crafted by adversarial opponents rather than random noise. Thus, new assured ML methods and processes are required for the data-driven modeling and control processes of CPS to assure formal guarantees of desired properties.
+\n
+\n
+
+I am personally interested in developing post-modeling and design verification methods as well as correct-by-design methods to acheive trustworthness of data-driven modeling and control of CPS. 
+
+\n
+~~~
+{}{img_left}{image/data_driven.png}{alt text}{630px}{520px}{}
+~~~
+\n
+
+Figures are from [https://arxiv.org/pdf/1802.03557.pdf Safe, Autonomous and Intelligent Vehicles 2019] and [https://arxiv.org/pdf/2004.12273.pdf IEEE TNNLS 2020].
+
 
 
 
