@@ -4,6 +4,12 @@
 == Analysis and Control of Hybrid Dynamical Systems
 
 A hybrid system is a dynamical system that exhibits both continuous and discrete dynamic behavior, a system that can both flow (described by a differential equation) and jump (described by a state machine or automaton). The hybrid system framework offers an elegant way to model complex many technological systems, in which logic decision making and embedded control actions are combined with continuous physical processes such as a  variety of  Cyber-Physical Systems (CPS), e.g., collision avoidance protocols in air traffic control,  obstacle avoidance algorithms,  software-controlled medical devices, etc.  
+
+\n\n
+
+I am personally interested in the development of new theoretical results for the analysis and control of hybrid systems. My recent work proposed novel stability criteria for hybrid systems with time-dependent switching in the framework of multiple Lyapunov functions, including non-conservative stability criteria, formulated in terms of LP, SDP, and SOS conditions.
+ The results are further developed to a variety of hybrid systems such as stochastic switching systems, positive hybrid systems, uncertain hybrid systems, etc, as well as control synthesis of hybrid systems, e.g., event-triggered control.  
+
 \n
 ~~~
 {}{img_left}{image/hybrid_system.png}{alt text}{650px}{380px}{}
@@ -11,11 +17,6 @@ A hybrid system is a dynamical system that exhibits both continuous and discrete
 \n
 
 Figures are from [https://drive.google.com/open?id=1phmuHqLQq21zV9-3qHavgiRCEn1ggNim Automatica (2014)], [https://drive.google.com/open?id=1qPGSVbrI_fLJw8IuGcA7pqFiXnArn9aK Automatica (2018)].
-
-\n\n
-
-I am personally interested in the development of new theoretical results for the analysis and control of hybrid systems. My recent work proposed novel stability criteria for hybrid systems with time-dependent switching in the framework of multiple Lyapunov functions, including non-conservative stability criteria, formulated in terms of LP, SDP, and SOS conditions.
- The results are further developed to a variety of hybrid systems such as stochastic switching systems, positive hybrid systems, uncertain hybrid systems, etc, as well as control synthesis of hybrid systems, e.g., event-triggered control.  
 
 == Verification of Neural Network Systems
 
@@ -42,7 +43,7 @@ Figures are from [https://arxiv.org/pdf/2004.12273.pdf IEEE TNNLS 2020] and [htt
 
 == Trustworthy Data-Driven Modeling and Control of Cyber-Physical Systems
 
-Modern control systems, e.g., medical robotic systems, autonomous vehicles and a variety of Cyber-Physical Systems (CPS), have been increasingly benefiting from the recent rapid development of Machine Learning (ML) and Artificial Intelligence (AI) techniques. In the foreseeable future, there will be intensive interactions between ML and dynamical control system domains in various stages of modeling, sensing, and control.Overthe next decade, the biggest generator of data is expected to be devices which sense and control the physical world. Effective and trustworthy data-driven methods are required to meet and handle the explosion of data emerging from the physical world. Moreover, with the progress of adversarial machine learning, traditional methods dealing with uncertainties and disturbances such as robust control methods are no longer valid as long as the perturbations and attacks might be purposefully crafted by adversarial opponents rather than random noise. Thus, new assured ML methods and processes are required for the data-driven modeling and control processes of CPS to assure formal guarantees of desired properties.
+Modern control systems, e.g., medical robotic systems, autonomous vehicles and a variety of Cyber-Physical Systems (CPS), have been increasingly benefiting from the recent rapid development of Machine Learning (ML) and Artificial Intelligence (AI) techniques. In the foreseeable future, there will be intensive interactions between ML and dynamical control system domains in various stages of modeling, sensing, and control. Over the next decade, the biggest generator of data is expected to be devices which sense and control the physical world. Effective and trustworthy data-driven methods are required to meet and handle the explosion of data emerging from the physical world. Moreover, with the progress of adversarial machine learning, traditional methods dealing with uncertainties and disturbances such as robust control methods are no longer valid as long as the perturbations and attacks might be purposefully crafted by adversarial opponents rather than random noise. Thus, new assured ML methods and processes are required for the data-driven modeling and control processes of CPS to assure formal guarantees of desired properties.
 \n
 \n
 
@@ -57,9 +58,17 @@ I am personally interested in developing post-modeling and design verification m
 Figures are from [https://arxiv.org/pdf/1802.03557.pdf Safe, Autonomous and Intelligent Vehicles 2019] and [https://arxiv.org/pdf/2004.12273.pdf IEEE TNNLS 2020].
 
 
-
-
 == Run-Time Monitoring of Learning-Enabled Cyber-Physical Systems
+
+To assure the safety property of neural networks, there area  few  safety  verification  methods  developed  recently.  These approaches  are  mostly  designed  in  the  framework  of  offline computation  and  usually  represent  high  computational  complexities  and  require  huge  computation  resources  to  conduct safety  verification. The developed methods are expected to be able to conduct scalable design-time verification for hybrid systems with learning-enabled components. One way to resolve the real-time challenge of run-time monitoring is to develop more computational efficient verification methods  that  can  be  executed  sufficiently  fast  to  satisfy  therun-time  requirement  such  as  the  specification-guide  method and polyhedral set  methods.  However,  these offline methods are essentially with an open-loop computation structure and there always exist computational limitations forthese  offline  algorithms  implemented  online.  On  the  other hand,  inspired  by  observer  design  techniques  in  classical control theory, another way is to design a closed-loop structure of  run-time  monitoring  using  the  instantaneous  measurement of  the  system. 
+
+\n
+~~~
+{}{img_left}{image/runtime.gif}{alt text}{750px}{350px}{}
+~~~
+\n
+
+Figure is for runtime safety monitoring of an adaptive cruise control system with neural network feedback controller. 
 
 == Assured Neural Network Compression
 
