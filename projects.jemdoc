@@ -33,7 +33,7 @@ I am developing efficient and scalable reachability-based verification framework
 
 \n
 ~~~
-{}{img_left}{image/nn_verification_2.png}{alt text}{420px}{420px}{}
+{}{img_left}{image/nn_verification_2.png}{alt text}{470px}{470px}{}
 ~~~
 \n
 
@@ -42,7 +42,7 @@ Figures are from [https://arxiv.org/pdf/2004.12273.pdf IEEE TNNLS 2020] and [htt
 
 == Trustworthy Data-Driven Modeling and Control of Cyber-Physical Systems
 
-Modern control systems, e.g., medical robotic systems, autonomous vehicles and a variety of Cyber-Physical Systems(CPS), have been increasingly benefiting from the recent rapid development of Machine Learning (ML) and Artificial Intelligence (AI) techniques. In the foreseeable future, there will be intensive interactions between ML and dynamical control system domains in various stages of modeling, sensing, and control.Overthe next decade, the biggest generator of data is expected to be devices which sense and control the physical world. Effective and trustworthy data-driven methods are required to meet and handle the explosion of data emerging from the physical world. Moreover, with the progress of adversarial machine learning, traditional methods dealing with uncertainties and disturbances such as robust control methods are no longer valid as long as the perturbations and attacks might be purposefully crafted by adversarial opponents rather than random noise. Thus, new assured ML methods and processes are required for the data-driven modeling and control processes of CPS to assure formal guarantees of desired properties.
+Modern control systems, e.g., medical robotic systems, autonomous vehicles and a variety of Cyber-Physical Systems (CPS), have been increasingly benefiting from the recent rapid development of Machine Learning (ML) and Artificial Intelligence (AI) techniques. In the foreseeable future, there will be intensive interactions between ML and dynamical control system domains in various stages of modeling, sensing, and control.Overthe next decade, the biggest generator of data is expected to be devices which sense and control the physical world. Effective and trustworthy data-driven methods are required to meet and handle the explosion of data emerging from the physical world. Moreover, with the progress of adversarial machine learning, traditional methods dealing with uncertainties and disturbances such as robust control methods are no longer valid as long as the perturbations and attacks might be purposefully crafted by adversarial opponents rather than random noise. Thus, new assured ML methods and processes are required for the data-driven modeling and control processes of CPS to assure formal guarantees of desired properties.
 \n
 \n
 
