@@ -68,7 +68,7 @@ To assure the safety property of neural networks, there area  few  safety  verif
 ~~~
 \n
 
-Figure is for runtime safety monitoring of an adaptive cruise control system with neural network feedback controller. 
+Figure is for runtime safety monitoring of an adaptive cruise control system with neural network feedback controller. Figures are from [https://arxiv.org/pdf/2101.08297.pdf IEEE Transactions on Cybernetics].
 
 == Assured Neural Network Compression
 
