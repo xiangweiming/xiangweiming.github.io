@@ -15,19 +15,19 @@ Safe, Autonomous and Intelligent Vehicles, Springer, 123-144
 
 === 2021
 
-- *Necessary and Sufficient Conditions for Stability of Discrete-Time Switched Linear Systems with Ranged Dwell Time*
-([https://arxiv.org/pdf/2105.14113.pdf PDF])
-\n
-W. Xiang
-\n
-IEEE Control Systems Letters, Accepted
-
 - *Run-Time Safety Monitoring of Neural-Network-Enabled Dynamical Systems (Regular Paper)*
 ([https://arxiv.org/pdf/2101.08297.pdf PDF])
 \n
 W. Xiang
 \n
 IEEE Transactions on Cybernetics, Accepted
+
+- *Necessary and Sufficient Conditions for Stability of Discrete-Time Switched Linear Systems with Ranged Dwell Time*
+([https://arxiv.org/pdf/2105.14113.pdf PDF])
+\n
+W. Xiang
+\n
+IEEE Control Systems Letters, 6: 728-733
 
 === 2020
 
@@ -43,7 +43,7 @@ IEEE Design and Test, doi: 10.1109/MDAT.2020.3015712
 \n
 W. Xiang, D. Tran, X. Yang, T.T. Johnson
 \n
-IEEE Transactions on Neural Networks and Learning Systems, doi: 10.1109/TNNLS.2020.2991090
+IEEE Transactions on Neural Networks and Learning Systems, 32(5): 1821-1830
 
 - *Reachable Set Estimation and Decentralized Control Synthesis of Large-Scale Switched Systems Under Mixed Switching*
 ([https://drive.google.com/file/d/1wDdRpOTRry-aB4IykILwlV66KUbzlTzk/view?usp=sharing PDF])
