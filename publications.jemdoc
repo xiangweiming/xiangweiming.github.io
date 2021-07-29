@@ -437,17 +437,29 @@ Control and Intelligent Systems 36 (4), 318
 
 === 2021
 
+- *Necessary and Sufficient Conditions for Stability of Discrete-Time Switched Linear Systems with Ranged Dwell Time* ([https://arxiv.org/pdf/2105.14113.pdf PDF])
+\n
+W. Xiang
+\n
+The 60th IEEE conference on Decision and Control (CDC)
+
+- *Robust Optimization Framework for Training Shallow Neural Networks Using Reachability Method* ([https://arxiv.org/pdf/2107.12801.pdf PDF])
+\n
+J. Yang, W. Xiang
+\n
+The 60th IEEE conference on Decision and Control (CDC)
+
 - *Poster/Demo: Interval Observer Design of Dynamical Systems With Neural Networks* 
 \n
 W. Xiang
 \n
-24th ACM International Conference on Hybrid Systems: Computation and Control (HSCC)
+24th ACM International Conference on Hybrid Systems: Computation and Control (HSCC), 1-2
 
 - *Data-Driven Modeling of Switched Dynamical Systems via Extreme Learning Machine* ([https://arxiv.org/pdf/2101.09863.pdf PDF])
 \n
 W. Xiang
 \n
-2021 Annual American Control Conference (ACC)
+2021 Annual American Control Conference (ACC), DOI: 10.23919/ACC50511.2021.9483234
 
 === 2020
 
