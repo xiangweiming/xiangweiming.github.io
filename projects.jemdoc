@@ -1,7 +1,7 @@
 # jemdoc: menu{MENU}{projects.html}
 = Projects
 
-== Enabling Trustworthy Upgrades of Machine-Learning Intensive Cyber-Physical Systems
+== Enabling Trustworthy Upgrades of Machine-Learning Intensive Cyber-Physical Systems ([https://www.nsf.gov/awardsearch/showAward?AWD_ID=2143351&HistoricalAwards=false NSF CAREER Award 2143351])
 
 This project is supported by [https://www.nsf.gov/awardsearch/showAward?AWD_ID=2143351&HistoricalAwards=false NSF CAREER Award 2143351].
 
@@ -23,7 +23,7 @@ Cyber-Physical Systems (CPS) sustainably benefit from software upgrades througho
 
 This project targets these unique challenges by developing scalable verification and monitoring methods for upgrades as well as safe upgrade procedures to enable trustworthy upgrades and achieve lifetime safety assurance in machine-learning-intensive CPS. This project will advance the state-of-the-art in the research of safety in machine-learning-intensive CPS from local time windows to global life cycles. With the expected research results, machine learning components in CPS can upgrade with desired safety assurance for lifetime safety purposes. In particular, this project will develop a novel scalable incremental verification framework as well as self-adaptive runtime monitoring methods for upgrades of machine-learning-intensive CPS. The proposed approach will also design safety-assured upgrade procedures by developing novel upgrade renewal procedures, safety-aware upgrades, and safety backup co-design methods.
 
-== Data-Driven Modeling and Control of Human-Cyber-Physical Systems with Extended-Reality-Assisted Interfaces 
+== Data-Driven Modeling and Control of Human-Cyber-Physical Systems with Extended-Reality-Assisted Interfaces ([https://www.nsf.gov/awardsearch/showAward?AWD_ID=2223035&HistoricalAwards=false NSF CPS Award 2223035])
 
 This project is supported by [https://www.nsf.gov/awardsearch/showAward?AWD_ID=2223035&HistoricalAwards=false NSF CPS Award 2223035], and in collaboration with Prof. [https://www.jeoresearch.com/research Jason Orlosky].
 
