@@ -52,7 +52,7 @@ This project is supported by [https://www.nsf.gov/awardsearch/showAward?AWD_ID=2
 
 \n
 ~~~
-{}{img_left}{image/CPS2022_overview.png}{alt text}{750px}{}{}
+{}{img_left}{image/SLES2023_overview.png}{alt text}{750px}{}{}
 ~~~
 \n
 
@@ -61,7 +61,7 @@ Project Overview of [https://www.nsf.gov/awardsearch/showAward?AWD_ID=2331938&Hi
 \n
 \n
 
-Learning-enabled autonomous systems operating in unfamiliar or unprecedented environments pose new foundational challenges for their safety assessment and subsequent risk management. In this context, the system-level safety means the complicated behaviors created by the interactions between multiple learning components and the physical world satisfy the safety requirements, protecting the system from accidental failures to avoid hazards such as collisions to other vehicles, bicycles and pedestrians. The qualitative and quantitative methodologies envisioned to complement each other by providing both 'yes' or 'no' binary decisions and numerical measures of safety, which allow for a thorough understanding of safety concerns and enable effective safety verification in uncertain environments. This project targets the foundational challenges of developing qualitative and quantitative safety assessment methods capable of capturing uncertainties from environments and providing timely, comprehensive, and accurate safety evaluations at the system level. The outcomes are expected to boost the trustworthiness and adaptability of learning-enabled systems to the unknown world and facilitate their safe integration into various domains, such as autonomous vehicles, robotics, or industrial automation. Educational and outreach activities are well-integrated into the research, including curriculum development, K-12 STEM outreach, and industrial engagement activities. The designed activities are uniquely positioned to promote diversity throughout this project by giving priority consideration, mentoring, and working with students in underrepresented minority groups.
+Learning-enabled autonomous systems operating in unfamiliar or unprecedented environments pose new foundational challenges for their safety assessment and subsequent risk management. In this context, the system-level safety means the complicated behaviors created by the interactions between multiple learning components and the physical world satisfy the safety requirements, protecting the system from accidental failures to avoid hazards such as collisions to other vehicles, bicycles and pedestrians. The qualitative and quantitative methodologies envisioned to complement each other by providing both 'yes' or 'no' binary decisions and numerical measures of safety, which allow for a thorough understanding of safety concerns and enable effective safety verification in uncertain environments. This project targets the foundational challenges of developing qualitative and quantitative safety assessment methods capable of capturing uncertainties from environments and providing timely, comprehensive, and accurate safety evaluations at the system level. The outcomes are expected to boost the trustworthiness and adaptability of learning-enabled systems to the unknown world and facilitate their safe integration into various domains, such as autonomous vehicles, robotics, or industrial automation. 
 
 \n
 \n
